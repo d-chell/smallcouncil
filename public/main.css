@@ -1,0 +1,13 @@
+.view {
+    display:flex;
+}
+.fixed {
+    background-color:#4F628E;
+    z-index: 2;
+}
+.flex-item {
+    background-color:#7887AB;
+    flex-grow: 1;
+    width: 800px;
+    z-index: 0;
+}
